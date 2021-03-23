@@ -19,6 +19,7 @@ namespace Apiexamen.Controllers
         // GET: api/productoes
         public IQueryable<producto> Getproductoes()
         {
+           
             return db.productoes;
         }
 
