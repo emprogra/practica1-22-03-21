@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apiexamen", "Apiexamen\Apiexamen.csproj", "{ECE04579-9708-4DC3-B9E0-17EA22BAD429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE04579-9708-4DC3-B9E0-17EA22BAD429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE04579-9708-4DC3-B9E0-17EA22BAD429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE04579-9708-4DC3-B9E0-17EA22BAD429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE04579-9708-4DC3-B9E0-17EA22BAD429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A4B9607-A837-40BA-B759-94078AC5A510}
+	EndGlobalSection
+EndGlobal
