@@ -12,5 +12,9 @@ namespace Apiexamen.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<Apiexamen.Models.Currency> Currencies { get; set; }
+
+        public System.Data.Entity.DbSet<Apiexamen.Models.producto> productoes { get; set; }
     }
 }
